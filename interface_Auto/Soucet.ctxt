@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Soucet
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Soucet}\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ \ \ \ jm\u00E9no\ autora\r\n\ @version\ \ \ 0.00.000\r\n
+comment1.params=
+comment1.target=Soucet()
+comment1.text=\r\n\r\n
+comment2.params=x\ y
+comment2.target=int\ vypocet(int,\ int)
+numComments=3
