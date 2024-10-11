@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Servant
-comment1.params=
-comment1.target=Servant()
-comment2.params=vozidlo
-comment2.target=int\ getPocetCestujicich(ICestujici)
-comment3.params=vozidlo
-comment3.target=void\ priberCestujiciho(ICestujici)
-numComments=4
