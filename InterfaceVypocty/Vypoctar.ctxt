@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vypoctar
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Vypoctar}\ p\u0159edstavuj\u00ED\ ...\r\n\r\n\ @author\ \ \ \ jm\u00E9no\ autora\r\n\ @version\ \ \ 0.00.000\r\n
+comment1.params=
+comment1.target=Vypoctar()
+comment1.text=\r\n\r\n
+comment2.params=operace\ x\ y
+comment2.target=int\ dejVysledek(IVypocty,\ int,\ int)
+comment3.params=operace\ x\ y
+comment3.target=void\ pisVysledek(IVypocty,\ int,\ int)
+numComments=4

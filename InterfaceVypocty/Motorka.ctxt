@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Motorka
+comment1.params=
+comment1.target=Motorka()
+comment2.params=
+comment2.target=java.awt.Color\ getBarva()
+comment3.params=
+comment3.target=int\ getpocetCestujicich()
+comment4.params=pocetCestujicich
+comment4.target=void\ setPocetCestujicich(int)
+numComments=5
