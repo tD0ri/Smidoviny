@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ComputerBuilder
+comment1.params=CPU
+comment1.target=ComputerBuilder\ nastavCPU(java.lang.String)
+comment2.params=RAM
+comment2.target=ComputerBuilder\ nastavRAM(java.lang.String)
+comment3.params=storage
+comment3.target=ComputerBuilder\ nastavStorage(java.lang.String)
+comment4.params=graphics
+comment4.target=ComputerBuilder\ nastavGraphics(java.lang.String)
+comment5.params=
+comment5.target=Computer\ build()
+numComments=6
